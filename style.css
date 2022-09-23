@@ -70,7 +70,7 @@
     gap: 10px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1020px) {
     .flex-row {
         grid-template-columns: 1fr;
     }
